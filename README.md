@@ -1,9 +1,15 @@
-- 👋 Salut, moi c'est MOHAMADOU LAMO BABILA alias KOUTINIO6BABILA
-- 👀 Je suis informaticien de formation mais je suis également Community manager pour le compte de l'entreprise MIREILLE BIO COSMETIQUE, je suis également graphiste et formateur en développement web
-- 🌱 je suis actuellement entrain de renforcer mes compétences en javascript et python
-- 💞️ je recherche des personnes engagés comme moi et qui rêve d'impacter grâce à leurs compétences
-- 📫 retrouver moi sur ma page Facebook 
+#KOUTINIO BABILA
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+je suis un informaticien de formation avec un BTS en Génie Logiciel. Je suis également Community Manager pour le compte de l'entreprise MIREILLE BIO COSMETIQUE. J'ai également une entreprise qui fait dans la conception et le design graphique. J'adore lire et je suis un grand fan de foot
 
-<!---
+#Skills: 
+- NODE JS/ANGULAR
+- HTML/CSS/JS
+- PYTHON/C/C++/C#/VSCODE/JAVA
 
---->
+#Examples:
+40 projets de développement web et sur des logiciels embarqué  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/KOUTINIO-BABILA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/KOUTINIO BABILA/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/BABILA KOUTINIO)  
+
