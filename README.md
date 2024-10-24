@@ -1,12 +1,12 @@
-#KOUTINIO BABILA
+# KOUTINIO BABILA
 je suis un informaticien de formation avec un BTS en Génie Logiciel. Je suis également Community Manager pour le compte de l'entreprise MIREILLE BIO COSMETIQUE. J'ai également une entreprise qui fait dans la conception et le design graphique. J'adore lire et je suis un grand fan de foot
 
-#Skills: 
+## Skills: 
 - NODE JS/ANGULAR
 - HTML/CSS/JS
 - PYTHON/C/C++/C#/VSCODE/JAVA
 
-#Examples:
+## Examples:
 40 projets de développement web et sur des logiciels embarqué  
 
 
