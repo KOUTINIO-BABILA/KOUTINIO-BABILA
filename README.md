@@ -1,5 +1,5 @@
 # KOUTINIO BABILA
-je suis un informaticien de formation avec un BTS en Génie Logiciel. Je suis également Community Manager pour le compte de l'entreprise MIREILLE BIO COSMETIQUE. J'ai également une entreprise qui fait dans la conception et le design graphique. J'adore lire et je suis un grand fan de foot.
+je suis un informaticien de formation avec un BTS en Génie Logiciel. Je suis également Community Manager pour le compte de l'entreprise MIREILLE BIO COSMETIQUE. J'ai également une entreprise qui fait dans la conception et le design graphique. J'adore lire et je suis un grand amateur de boxe, karaté, judo et d'autres types d'art martiaux.
 
 ## Languages: 
 - NODE JS/ANGULAR
